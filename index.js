@@ -3,7 +3,7 @@
 // 6644f8b774a34d8c84877cf6a191e096 : NEWS API KEY
 
 let apiKey = `6644f8b774a34d8c84877cf6a191e096`;
-let source = `the-times-of-india`;
+let source = `bbc-news`;
 // Main News Container
 let newsAccordion = document.getElementById(`newsAccordion`);
 
