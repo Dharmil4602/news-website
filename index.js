@@ -11,7 +11,7 @@ let newsAccordion = document.getElementById(`newsAccordion`);
 
 const xhr = new XMLHttpRequest();
 
-xhr.open(`GET`, `https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=${apiKey}`, true);
+xhr.open(`GET`, `https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=6644f8b774a34d8c84877cf6a191e096`, true);
 
 xhr.onload = function () {
 
